@@ -1,0 +1,9 @@
+pandas
+numpy
+imbalanced-learn
+scikit-learn
+matplotlib
+nltk
+tabulate
+xgboost
+scipy
