@@ -1,0 +1,9 @@
+Empezamos haciendo las graficas de todo
+
+Vimos que lo mejor era bigramas-tigramas de 30 a 40 (enseñar mapa 1,2,3)
+
+Despues de ver que era cerca de 35 hicimos una pasada del cv de 30 a 40 a ver que salia para buscar el mejor
+
+Decidimos que 35 era el mejor numero tras visualizar tópicos y estaba respaldado por tambien ótros graficos (umass y nmpi) (ver mapa 3)
+
+Intentamos ver el codo de unigramas 11 topicos pero no habia nada interesante (mapaUni11)

@@ -1,0 +1,23 @@
+{
+    "INPUT": "airlines_reviewsTrainDev.csv",
+    "TARGET": "Title",
+    "TARGET2": "Reviews",
+    "NOSOTROS": "Emirates",
+    "COMPETIDOR": "Qatar Airways",
+    "NEUTRO": 0,
+    "UNIGRAM": false,
+    "BIGRAM": true,
+    "TRIGRAM": true,
+    "METODO": "LDA",
+    "KMIN": 37,
+    "KMAX": 37,
+    "INTERVALO": 1,
+    "PASSES":13,
+    "PALABRAS": 8,
+    "VISUALIZAR": false,
+    "MALONOSOTROS": true,
+    "BUENONOSOTROS" : false,
+    "MALOCOMPETIDOR": false,
+    "BUENOCOMPETIDOR" : false,
+    "COHERENCE": "c_v"
+}
